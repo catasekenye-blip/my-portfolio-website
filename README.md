@@ -20,4 +20,4 @@ CSS
 Email: catasekenye@gmail.com
 Phone: +256702116906
 ## Live Website
-https://github.com/catasekenye-blip/my-portfolio-website.git.
+https://github.com/catasekenye-blip/my-portfolio-website.git
